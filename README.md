@@ -14,3 +14,9 @@ Tools and libs that are required in daily android development life cycle
 ## Database Helper
 
 - [Database Asset helper](https://github.com/jgilfelt/android-sqlite-asset-helper)
+
+
+## Animation View
+
+- [Explosion Animation](https://github.com/tyrantgit/ExplosionField)
+- [circular progress button](https://github.com/makovkastar/circular-progress-button)
